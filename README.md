@@ -1,5 +1,9 @@
 
 # 5 good foods
+
+* find images
+* center images
+* 
 HTML level 1, Five things (1st in a series of 4)
 HTML - 1	CSS - 1
 <!DOCTYPE html>	bg color
